@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background: #172033;
+}
+
+.levelboard {
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior: contain;
+  touch-action: pan-x;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.levelboard::-webkit-scrollbar {
+  display: none;
+}
+
+.levelboard img {
+  display: block;
+  width: auto;
+  height: 100%;
+  max-width: none;
+}

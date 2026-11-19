@@ -1,0 +1,141 @@
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/appsettings.Development.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/appsettings.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Edutastic.Backend.staticwebassets.endpoints.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Edutastic.Backend
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Edutastic.Backend.deps.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Edutastic.Backend.runtimeconfig.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Edutastic.Backend.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Edutastic.Backend.pdb
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/Edutastic.Backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/Edutastic.Backend.AssemblyInfoInputs.cache
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/Edutastic.Backend.AssemblyInfo.cs
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/Edutastic.Backend.csproj.CoreCompileInputs.cache
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/Edutastic.Backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/scopedcss/bundle/Edutastic.Backend.styles.css
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/staticwebassets.build.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/staticwebassets.development.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/swae.build.ex.cache
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/Edutastic.Backend.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/refint/Edutastic.Backend.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/Edutastic.Backend.pdb
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/Edutastic.Backend.genruntimeconfig.cache
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/ref/Edutastic.Backend.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/Edutastic.Backend.csproj.AssemblyReference.cache
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/BirdMessenger.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/MimeMapping.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Supabase.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Supabase.Core.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Supabase.Functions.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Supabase.Gotrue.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Supabase.Postgrest.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Supabase.Realtime.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Supabase.Storage.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/System.Reactive.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/bin/Debug/net10.0/Websocket.Client.dll
+/Users/mirac/Downloads/Edutastic inlog/Edutastic.Backend/obj/Debug/net10.0/Edutasti.6975C075.Up2Date
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\appsettings.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.staticwebassets.endpoints.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.exe
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.deps.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.runtimeconfig.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.pdb
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\BirdMessenger.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\MimeMapping.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Supabase.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Supabase.Core.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Supabase.Functions.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Supabase.Gotrue.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Supabase.Postgrest.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Supabase.Realtime.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Supabase.Storage.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\System.Reactive.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\bin\Debug\net10.0\Websocket.Client.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.csproj.AssemblyReference.cache
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.AssemblyInfoInputs.cache
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.AssemblyInfo.cs
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\scopedcss\bundle\Edutastic.Backend.styles.css
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\Edutasti.6975C075.Up2Date
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\refint\Edutastic.Backend.dll
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.pdb
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.genruntimeconfig.cache
+C:\Users\Wiktor\Desktop\Edutastic inlog-20261116T081617Z-1-001\Edutastic inlog\Edutastic.Backend\obj\Debug\net10.0\ref\Edutastic.Backend.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\appsettings.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.staticwebassets.endpoints.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.exe
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.deps.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.runtimeconfig.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Edutastic.Backend.pdb
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\BirdMessenger.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\MimeMapping.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Supabase.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Supabase.Core.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Supabase.Functions.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Supabase.Gotrue.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Supabase.Postgrest.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Supabase.Realtime.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Supabase.Storage.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\System.Reactive.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\bin\Debug\net10.0\Websocket.Client.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.csproj.AssemblyReference.cache
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.AssemblyInfoInputs.cache
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.AssemblyInfo.cs
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\scopedcss\bundle\Edutastic.Backend.styles.css
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\Edutasti.6975C075.Up2Date
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\refint\Edutastic.Backend.dll
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.pdb
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\Edutastic.Backend.genruntimeconfig.cache
+C:\Users\Wiktor\Desktop\Edutastic - Current\Edutastic\Edutastic.Backend\obj\Debug\net10.0\ref\Edutastic.Backend.dll

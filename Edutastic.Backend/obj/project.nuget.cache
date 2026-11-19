@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/xtV56Xtcw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wiktor\\Desktop\\Edutastic - Current\\Edutastic\\Edutastic.Backend\\Edutastic.Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wiktor\\.nuget\\packages\\birdmessenger\\4.0.0\\birdmessenger.4.0.0.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.7.3\\microsoft.identitymodel.abstractions.7.7.3.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.7.3\\microsoft.identitymodel.jsonwebtokens.7.7.3.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\microsoft.identitymodel.logging\\7.7.3\\microsoft.identitymodel.logging.7.7.3.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.7.3\\microsoft.identitymodel.tokens.7.7.3.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\mimemapping\\4.0.0\\mimemapping.4.0.0.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\supabase\\8.10.0\\supabase.8.10.0.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\supabase.core\\8.10.0\\supabase.core.8.10.0.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\supabase.functions\\8.10.0\\supabase.functions.8.10.0.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\supabase.gotrue\\8.10.0\\supabase.gotrue.8.10.0.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\supabase.postgrest\\8.10.0\\supabase.postgrest.8.10.0.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\supabase.realtime\\8.10.0\\supabase.realtime.8.10.0.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\supabase.storage\\8.10.0\\supabase.storage.8.10.0.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.7.3\\system.identitymodel.tokens.jwt.7.7.3.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\system.reactive\\6.1.0\\system.reactive.6.1.0.nupkg.sha512",
+    "C:\\Users\\Wiktor\\.nuget\\packages\\websocket.client\\5.5.1\\websocket.client.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
